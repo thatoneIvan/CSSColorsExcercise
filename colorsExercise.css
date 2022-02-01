@@ -1,0 +1,28 @@
+h1 { 
+    /* Color Name example */
+    color: purple;
+}
+
+h2 {
+    /* Hexadecimal example */
+    color: #0000FF
+}
+
+h3 {
+    /* Hexadecimal Shorthand */
+    color: #f00 
+}
+h4 {
+    /* Hexadecimal w/ Transparency */
+    color:#dfdf0088
+}
+h5 {
+    /* hexadecimal with transparency shorthand */
+    color:#ff0;
+} 
+h6 {
+    color:rgb(230, 8, 8)
+}
+p {
+    color: rgba(55,20,50,0.3);
+}
